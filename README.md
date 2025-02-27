@@ -48,8 +48,10 @@
 Как переписку видит пользователь:
 ![image](https://github.com/user-attachments/assets/ef60f027-21ef-49a9-985d-48e0fb1cb290)
 
+
 В свою очередь, администратор видит так (и может пользоваться расширенным набором команд):
 ![image](https://github.com/user-attachments/assets/b9057fc7-abaa-4e8e-befd-f2a6e9e54b42)
+
 
 Ряд команд из админского чата для управления ботом:
 ![image](https://github.com/user-attachments/assets/8fea2572-5b11-4653-a63c-883869bbee55)
